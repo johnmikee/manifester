@@ -19,3 +19,15 @@
 
 # Go workspace file
 go.work
+
+
+# Go workspace file
+go.work
+
+.DS_Store
+**/.DS_Store
+
+logs/
+out/
+build/
+*.zip
