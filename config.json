@@ -1,0 +1,8 @@
+{
+    "exclusions": [
+        "site_default"
+    ],
+    "department-filter": "dept",
+    "display-name": "serial_number"
+}
+
